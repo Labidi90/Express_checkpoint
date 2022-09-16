@@ -1,0 +1,28 @@
+* {
+  text-align: center;
+}
+
+#navbarNav {
+  float: right;
+  margin-top: 15px;
+  font-size: 16px;
+}
+
+ul li a {
+  padding-right: 70px;
+  font-weight: bold;
+}
+
+h1 {
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+form {
+  margin-top: 50px;
+}
+
+form input {
+  max-width: 60%;
+  margin: 20px auto;
+}
